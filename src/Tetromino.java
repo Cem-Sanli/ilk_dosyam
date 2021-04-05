@@ -48,7 +48,6 @@ class Tetromino {
         newShape = getShape();
         if (count > 0) {
             shapeMatrix = Shapes2.get(count - 1);
-	 System.out.println("sadsad");
 
 
         }
